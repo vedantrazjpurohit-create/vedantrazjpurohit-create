@@ -24,6 +24,7 @@ B.Tech Robotics & AI @ K. J. Somaiya College of Engineering, Vidyavihar.
 - Commits that say *why*, not `final_final2`
 
 ### Contact
+- [Portfolio](https://vedantrazjpurohit-create.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/vedant-rajpurohit-9264ab24b)
 - [Email](mailto:vedantrazjpurohit@gmail.com)
 
